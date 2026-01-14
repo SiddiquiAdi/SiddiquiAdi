@@ -51,7 +51,7 @@ With a strong foundation in both frontend and backend development, I enjoy turni
 
 ## 🌐 Connect With Me
 - 🌐 **Portfolio:** https://siddiqui-adi-portfolio.netlify.app/  
-- 💼 **LinkedIn:** [Siddiqui Adi](https://linkedin.com/in/siddiqui-adi)  
+- 💼 **LinkedIn:** [Siddiqui Adi]([https://linkedin.com/in/siddiqui-adi)](https://www.linkedin.com/in/adi-siddiqui-/)  
 
 ---
 
